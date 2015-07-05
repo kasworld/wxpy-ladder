@@ -1,6 +1,6 @@
 # ladder game
 
-![screenshot](/ladder.gif?raw=true)
+![screenshot](/Screenshot.png?raw=true)
 
 
 ## requirements 
